@@ -1,0 +1,22 @@
+{
+  "OWNER_ADDRESS": "0x6Bd9a75baD872B3bF7beBf56AbE2C3eD0EC4016c",
+  "CONTRACT_ADDRESS": "0x91a450928Ec3b5cd7C5870FbA9e221B8C76Fad21",
+  
+  
+  "SCAN_LINK": "https://Etherscan.com/address/0x91a450928Ec3b5cd7C5870FbA9e221B8C76Fad21 ",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "Eth",
+    "ID": 1
+  },
+  "NFT_NAME": "MegaverseClub",
+  "SYMBOL": "MC",
+  "MAX_SUPPLY": 5000,
+  "WEI_COST": 85000000000000000,
+
+  "DISPLAY_COST": 0.085,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/Megaverse",
+  "SHOW_BACKGROUND": true
+}
